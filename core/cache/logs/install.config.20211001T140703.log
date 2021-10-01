@@ -1,0 +1,1 @@
+[2021-10-01 14:07:03] (ERROR in xPDOConnection::connect @ /home/rav/Documents/Sites/adamok-modx/core/xpdo/xpdo.class.php : 3119) SQLSTATE[HY000] [1049] Unknown database 'testmodx'

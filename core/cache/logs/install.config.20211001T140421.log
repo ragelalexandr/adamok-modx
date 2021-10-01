@@ -1,0 +1,1 @@
+[2021-10-01 14:04:21] (ERROR in xPDOConnection::connect @ /home/rav/Documents/Sites/adamok-modx/core/xpdo/xpdo.class.php : 3119) SQLSTATE[HY000] [1045] Access denied for user 'Adamok'@'localhost' (using password: YES)
